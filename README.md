@@ -9,6 +9,6 @@ The below features
         
  And many other fetaures.
  
- visist the website : https://hassanshriem.github.io/javascript-calculator/
+ visit the website : https://hassanshriem.github.io/javascript-calculator/
  
  useful link : https://www.youtube.com/watch?v=j59qQ7YWLxw
